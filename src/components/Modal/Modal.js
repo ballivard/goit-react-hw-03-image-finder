@@ -37,12 +37,4 @@ class Modal extends PureComponent {
   }
 }
 
-Modal.propTypes = {
-  // bla: PropTypes.string,
-};
-
-Modal.defaultProps = {
-  // bla: 'test',
-};
-
 export default Modal;
